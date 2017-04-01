@@ -102,7 +102,7 @@ The last step needs a lot of calculations when the trendlines are activated and 
 chart.setAutoUpdate(false);
 ```
 
-Keep in mind that you will have to call ```javachart.updateValues();``` everytime you wish to update the chart
+Keep in mind that you will have to call ```java chart.updateValues();``` everytime you wish to update the chart
 
 ## Licence
 -------
