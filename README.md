@@ -45,4 +45,4 @@ chart.showPolynomialTrendLineOnAxis((MultiAxisScatterChart.SECOND_Y_AXIS);
 
 Licence
 -------
-[GNU GENERAL PUBLIC LICENSE // Version 2, June 1991](LICENSE)
+[GNU GENERAL PUBLIC LICENSE](LICENSE)
