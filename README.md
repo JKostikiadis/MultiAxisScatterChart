@@ -26,7 +26,7 @@ MultiAxisScatterChart chart = new MultiAxisScatterChart(850, 500, xAxis, y1Axis,
 chart.setTitle("Force, Power/Load");
 ```
 
-![Chart creation ](./Preview Images/chart_creation.png)
+![Chart creation ](./preview/chart_creation.png)
 
 
 
@@ -55,7 +55,7 @@ chart.addValue(150, 2399,MultiAxisScatterChart.SECOND_Y_AXIS);
 chart.addValue(160, 2240,MultiAxisScatterChart.SECOND_Y_AXIS);
 ```
 
-![Chart with values ](Preview Images/chart_values_adding.png)
+![Chart with values ](./preview/chart_values_adding.png)
 
 
 Display Polynomial or Linear regression. By default regressions are not activated.
@@ -65,7 +65,7 @@ chart.showLinearTrendLineOnAxis(MultiAxisScatterChart.FIRST_Y_AXIS);
 chart.showPolynomialTrendLineOnAxis(MultiAxisScatterChart.SECOND_Y_AXIS);
 ```
 
-![Chart with Trendlines ](Preview Images/chart_regressions.png)
+![Chart with Trendlines ](./preview/chart_regressions.png)
 
 
 Licence
