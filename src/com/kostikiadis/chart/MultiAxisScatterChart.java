@@ -411,7 +411,6 @@ public class MultiAxisScatterChart extends Region {
 				double min = getMinYValue(axisIndex);
 
 				if (min == max) {
-					System.out.println("YES");
 					max = yAxis.getMaxValue() > max ? yAxis.getMaxValue() : max;
 					min = yAxis.getMinValue() < min ? yAxis.getMinValue() : min;
 				}
