@@ -9,7 +9,7 @@ Display Polynomial or Linear regression (TrendLines). ( Using <url>http://thorwi
 
 You can clone this project and build it by yourself, or you can grab the pre-build jar library and import it directly into your project and you are ready to go.
 
-# Pre-Build Jar 
+#### Pre-Build Jar 
 [MultiAxisScatterChart.jar V1.0](https://github.com/JKostikiadis/MulitAxisScatterChart/raw/master/build/MultiAxisScatterChart.jar)
 
 
