@@ -5,6 +5,12 @@ Implementation of 2 Y-Axis Scatter Chart in pure JavaFX. This project was create
 Additional Functionalities:
 Display Polynomial or Linear regression (TrendLines). ( Using <url>http://thorwin.nl/</url> for calculating line/curves coefficients )
 
+## Installation
+
+You can clone this project and build it by yourself, or you can grab the pre-build jar library and import it directly into your project and you are ready to go.
+
+Pre-Build Jar [a link](./build/MultiAxisScatterChart.jar)
+
 
 ## Code Example
 
