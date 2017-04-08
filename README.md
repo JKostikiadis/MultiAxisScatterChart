@@ -1,4 +1,4 @@
-## MulitAxisScatterChart
+## MultiAxisScatterChart
 
 Implementation of 2 Y-Axis Scatter Chart in pure JavaFX. This project was created due to lack of JavaFX default charts to represent data in multiple Y-Axis.
 
